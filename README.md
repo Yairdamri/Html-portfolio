@@ -1,2 +1,2 @@
 # Html-portfolio
-My wed developing portfolio
+My web developing portfolio
